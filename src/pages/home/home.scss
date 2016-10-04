@@ -1,0 +1,13 @@
+.home {
+  p.large {
+    font-size: 16px;
+  }
+}
+
+ion-content {
+  background-color: #387ef5;
+  &.center {
+    text-align: center;
+    color: green;
+  }
+}
